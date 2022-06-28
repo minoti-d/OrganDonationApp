@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7756932529",
+    "project_id": "organdon-78a52",
+    "storage_bucket": "organdon-78a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7756932529:android:dbaee747519afbcb038990",
+        "android_client_info": {
+          "package_name": "com.example.sdp_organ_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7756932529-76hd5odgm3slpo4srf6i86dqdh849pq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF05yg8hup8-kihgNx3DDG_4AfqtmiiOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7756932529-76hd5odgm3slpo4srf6i86dqdh849pq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
